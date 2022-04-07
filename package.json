@@ -10,5 +10,8 @@
   "keywords": [
     "cls"
   ],
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
 }
